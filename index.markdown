@@ -13,3 +13,11 @@ DigPres@nypl has the following services:
 * serve files
 
 Check out [NYPL's site](http://nypl.org)
+
+
+![](https://upload.wikimedia.org/wikipedia/en/3/39/Skimbleshanks.jpg)
+
+Add an image:
+```js
+![](https://upload.wikimedia.org/wikipedia/en/3/39/Skimbleshanks.jpg)
+```
