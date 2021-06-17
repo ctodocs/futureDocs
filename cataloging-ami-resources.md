@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Cataloging AMI resources
 permalink: /cataloging-ami-resources/
 ---
